@@ -49,10 +49,10 @@
 
 ### 使用 NuGet 包管理器
 
-你可以通过 NuGet 包管理器将 `StartupManager` 添加到你的项目中：
+你可以通过 NuGet 包管理器将 `StartupManagerClassLibrary` 添加到你的项目中：
 
 ```bash
-Install-Package StartupManager
+Install-Package StartupManagerClassLibrary
 ```
 
 ### 手动集成 
